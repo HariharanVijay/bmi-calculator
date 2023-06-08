@@ -1,0 +1,18 @@
+body{
+    background-color: #fff;
+}
+.panel{
+    background-color: rgb(186, 134, 235);
+}
+input{
+    width: 100px;
+}
+#bmi-value, #body-level{
+    background-color: #fff;
+    border-radius: 25px;
+}
+#suggest{
+    background-color: rgb(253, 55, 55);
+    border-radius: 25px;
+    color: #fff;
+}
